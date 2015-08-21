@@ -5,10 +5,10 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 ## Revision, put your commit number here
-* Three functions:
-* Get input from command line:
+* Three functions:4267bccf
+* Get input from command line: fa62b589
 
 ## Questions
 1. What are the limitations of your new code?
 
-Answer:
+Answer: It's error when input isn't set of integer.

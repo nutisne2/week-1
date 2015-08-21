@@ -4,6 +4,9 @@
 * Revise the code such that it consists of three addition functions, input, process and output, put your commit number below.
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
+	Pattarawit Jaiban
+	570611027
+
 ## Revision, put your commit number here
 * Three functions:4267bccf
 * Get input from command line: fa62b589

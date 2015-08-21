@@ -8,6 +8,7 @@ namespace Lab1_1
 {
     class BubbleSort
     {
+        
         static void Main(string[] args)
         {
             bool flag = true;
@@ -18,15 +19,17 @@ namespace Lab1_1
             // process
             while (flag)
             {
+
                 flag = false;
                 for (int i = 0; i != input.Length - 1; i++)
                 {
-                    if (input[i] > input[i + 1])
+                    if (input[i] < input[i + 1])
                     {
                         int temp = input[i];
                         input[i] = input[i + 1];
                         input[i + 1] = temp;
                         flag = true;
+
                     }
                 }
             }
@@ -37,6 +40,7 @@ namespace Lab1_1
                 Console.Write(input[i]);
                 Console.Write(" ");
             }
+
             Console.ReadKey();
         }
     }

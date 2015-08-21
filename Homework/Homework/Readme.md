@@ -3,6 +3,9 @@
 * Change the code such that it will accept a number from command line, then show the result.
 * Answer the questions below
 
+Pattarawit Jaiban
+	570611027
+
 # Questions
 * Why we need "if-else" in function process?
 

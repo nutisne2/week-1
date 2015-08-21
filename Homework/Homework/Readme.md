@@ -6,7 +6,7 @@
 # Questions
 * Why we need "if-else" in function process?
 
-Answer:
+Answer:because this program is factorial it can run when number is in set of positive integer but when number is zero is equl to one we use if-else to check that.
 
 
 # Resources
